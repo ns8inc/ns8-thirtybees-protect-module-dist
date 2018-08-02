@@ -22,7 +22,7 @@ images:
 - image-2.jpg
 - image-3.jpg
 - image-4.jpg
-license: MIT
+license: AFL 3.0
 php_version:
 - 5.6
 - 7.0
