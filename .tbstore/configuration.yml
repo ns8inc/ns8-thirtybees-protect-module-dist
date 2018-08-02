@@ -3,6 +3,7 @@ category: payment
 compatible_versions: 1.0.0+
 description: description.md
 description_short: "Protect your store from the three big revenue killers: order fraud, advertising fraud, and poor performance."
+gdpr_compliant: true
 images:
 - image-1.jpg
 - image-2.jpg
