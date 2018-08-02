@@ -3,28 +3,28 @@ compatible_versions: 1.0.0+
 author: NS8
 category: payment
 localization:
-  - US
+- US
 tags:
-  - ecommerce
-  - e-commerce
-  - store
-  - fraud
-  - fraud protection
-  - ad fraud
-  - order fraud
-  - performance monitoring
-  - payment fraud
-  - storefront
-description_short: Protect your store from the three big revenue killers: order fraud, advertising fraud, and poor performance.
+- ecommerce
+- e-commerce
+- store
+- fraud
+- fraud protection
+- ad fraud
+- order fraud
+- performance monitoring
+- payment fraud
+- storefront
+description_short: "Protect your store from the three big revenue killers: order fraud, advertising fraud, and poor performance."
 description: description.md
 images:
-  - image-1.jpg
-  - image-2.jpg
-  - image-3.jpg
-  - image-4.jpg
+- image-1.jpg
+- image-2.jpg
+- image-3.jpg
+- image-4.jpg
 license: AFL 3.0
 php_version:
-  - 5.6
-  - 7.0
-  - 7.1
-  - 7.2
+- 5.6
+- 7.0
+- 7.1
+- 7.2
