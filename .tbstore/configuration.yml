@@ -1,4 +1,4 @@
-module_name: NS8 Protect™
+module_name: NS8 Protect
 compatible_versions: 1.0.0+
 author: NS8
 category: payment
@@ -22,7 +22,7 @@ images:
 - image-2.jpg
 - image-3.jpg
 - image-4.jpg
-license: AFL
+license: MIT
 php_version:
 - 5.6
 - 7.0
