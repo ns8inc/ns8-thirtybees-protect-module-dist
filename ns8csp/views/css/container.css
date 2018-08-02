@@ -1,0 +1,16 @@
+.adminns8csp.psv_1_7 #content {
+    margin-left: 210px;
+}
+
+.adminns8csp.psv_1_7.page-sidebar-closed #content {
+    margin-left: 50px;
+}
+
+.adminns8csp.psv_1_7 h1.page-title {
+    padding-top: 26px;
+}
+
+#ns8-app-iframe {
+    width: 100%;
+    border: none;
+}
