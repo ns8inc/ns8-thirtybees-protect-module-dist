@@ -19,7 +19,7 @@ class NS8CSP extends Module
 
     public function __construct()
     {
-        $this->version = '1.1.97';
+        $this->version = '1.1.110';
         $this->module_key = '82cdbd9e4b3ddbf9beb693d13c720e00';
         $this->name = 'ns8csp';
         //$this->controllers = array('container');
@@ -378,6 +378,7 @@ class NS8CSP extends Module
         $this->logInfo('hostUninstall', 'Uninstalling NS8 Protect app...');
 
         $params = array(
+            "accessToken" => Configuration::get('NS8_CSP_TOKEN'),
             "shop" => $this->context->shop,
             "prestaVersion" => _PS_VERSION_,
             "moduleVersion" => $this->version
