@@ -39,7 +39,9 @@ NS8 Protect for ThirtyBees can protect you and other online merchants from the t
 
 ### Pricing 
 
-NS8 Protect is on constant watch, analyzing every visitor to your website. Because of this, it is a pay-as-you-go service based on the total number of hits registered each month. Pricing starts at $50 per 50K hits with the first price break starting for websites generating 500K hits or more a month. 
+NS8 Protect is a pay-as-you-go service, with tiered pricing based on your store’s traffic.* After the 30-day free trial period, pricing starts at $29.95 per month with the first price break starting for websites generating 500K hits or more in a month.
+
+_*Traffic is measured in hits: the total number of orders and page views that are analyzed on your website in a single month._
 
 <a name="one">1</a> Khalid Saleh. “Online Ad Fraud – Statistics and Trends.” Invesp, 6 May 2016 
 
