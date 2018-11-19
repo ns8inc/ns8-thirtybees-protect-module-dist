@@ -19,7 +19,7 @@ class NS8CSP extends Module
 
     public function __construct()
     {
-        $this->version = '1.1.110';
+        $this->version = '1.1.111';
         $this->module_key = '82cdbd9e4b3ddbf9beb693d13c720e00';
         $this->name = 'ns8csp';
         //$this->controllers = array('container');
