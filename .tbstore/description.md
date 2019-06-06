@@ -46,3 +46,4 @@ _*Traffic is measured in hits: the total number of orders and page views that ar
 <a name="one">1</a> Khalid Saleh. “Online Ad Fraud – Statistics and Trends.” Invesp, 6 May 2016 
 
 <a name="two">2</a> Neil Patel. “How Loading Time Affects Your Bottom Line.” Neilpatel.com, 2018 
+
