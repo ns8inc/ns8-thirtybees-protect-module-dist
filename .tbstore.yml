@@ -2,30 +2,30 @@ author: NS8
 category: payment
 compatible_versions: 1.0.0+
 description: description.md
-description_short: "Protect your store from the three big revenue killers: order fraud, advertising fraud, and poor performance."
+description_short: "NS8 helps you minimize the impact of fraud on your business without blocking valid customers."
 gdpr_compliant: true
 images:
-- image-1.jpg
-- image-2.jpg
-- image-3.jpg
-- image-4.jpg
+  - image-1.png
+  - image-2.jpg
+  - image-3.jpg
+  - image-4.jpg
 license: "AFL 3.0"
 localization:
-- US
+  - US
 module_name: "NS8 Protect"
 php_version:
-- 5.6
-- 7.0
-- 7.1
-- 7.2
+  - 5.6
+  - 7.0
+  - 7.1
+  - 7.2
 tags:
-- ecommerce
-- e-commerce
-- store
-- fraud
-- "fraud protection"
-- "ad fraud"
-- "order fraud"
-- "performance monitoring"
-- "payment fraud"
-- storefront
+  - ecommerce
+  - e-commerce
+  - store
+  - fraud
+  - "fraud protection"
+  - "ad fraud"
+  - "order fraud"
+  - "performance monitoring"
+  - "payment fraud"
+  - storefront
