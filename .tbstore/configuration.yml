@@ -2,10 +2,10 @@ author: NS8
 category: payment
 compatible_versions: 1.0.0+
 description: description.md
-description_short: "Protect your store from the three big revenue killers: order fraud, advertising fraud, and poor performance."
+description_short: "NS8 helps you minimize the impact of fraud on your business without blocking valid customers."
 gdpr_compliant: true
 images:
-- image-1.jpg
+- image-1.png
 - image-2.jpg
 - image-3.jpg
 - image-4.jpg

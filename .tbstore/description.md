@@ -1,49 +1,49 @@
 <iframe src="https://player.vimeo.com/video/232721752?color=78c143&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-NS8 Protect™ uses industry-leading techniques in behavioral analytics, real-time user scoring, and global monitoring to identify bots and other malicious activity in your storefront. As a platform-based approach to online threat reduction, NS8 Protect is designed to help your store fight the three big revenue killers: order fraud, advertising fraud, and poor performance. 
+NS8 is a comprehensive fraud prevention platform that combines behavioral analytics, real-time scoring, and global monitoring to help merchants of all sizes optimize order processing and minimize risk. Built on the Protect API, this app integrates directly into NS8's platform and allows merchants to begin fighting fraud within minutes.
 
-### Revenue Killer #1: Order Fraud 
+### Highlights: 
 
-#### For every $1 stolen by order fraud, retailers lose another $3 to lost labor, lost productivity, and chargeback penalties. <sup>[1](#one)</sup>
+#### Score users in real time
 
-NS8 Protect scores every visitor to your storefront. Every action taken by the visitor leading up to and including placing an order is scored individually and reflected in the EQ8 Score™. Low-scoring orders are most likely fraudulent and may be held or flagged for manual review. NS8 Protect also provides automated tools to escalate suspect orders or even request e-mail and SMS text verification from the visitor. The mix of automated tools and easier manual reviews empowers merchants to optimize their order processing and minimize risk. 
+NS8 analyzes all visitors and transactions in real time, providing a single score that assesses the fraud risk posed by each user. The score is an actionable data point that can be incorporated into a variety of customizable workflows. If a user’s score is suspiciously low, you can investigate their order before a chargeback occurs.
 
-* Benefit from the network of stores and websites already tagging fraudulent users and suspicious behavior by using NS8 software. 
-* Reduce costly chargebacks and the risk they pose to your merchant account. 
-* Reduce both the labor dedicated to manual review and shipping lead times. 
-* Set your own custom threshold for suspect orders and users. 
+#### Automate your workflow
 
-### Revenue Killer #2: Advertising Fraud 
+NS8’s automated tools allow merchants to escalate order investigation and request additional verification for suspicious orders. Create custom thresholds to designate user risk and reduce the labor involved in manual review and shipping lead times.
 
-#### Advertising fraud can eat up to 34% of your budget. <sup>[1](#one)</sup>
+### Features:
 
-Advertising fraud (especially remarketing fraud) is a huge and growing issue for online merchants. Up to 34% of online advertising campaign budgets are stolen using fraudulent traffic. NS8 Protect not only scores all traffic visiting your store, but it also detects and records the traffic’s source. You will see when, and which, advertising sources are delivering low-quality, high-risk, fraudulent traffic. You will be able to save money and increase revenue by eliminating poorly performing campaigns and focusing your budget on the successful campaigns that deliver results.
+#### Risk-scoring
 
-* Compare scored campaigns for the presence of bot traffic and fraud. 
-* Prevent bots and fraudulent users from being tagged for remarketing. 
-* Integrate with Google Analytics to tag high-value users for more effective remarketing. 
-* Track your store’s advertising savings from blocked fraudulent users. 
+Our unique scoring algorithm tracks and analyzes over 170 user attributes and combines them into a single, actionable score, which allows you to easily assess fraud risk at a glance and automate your review process.
 
-### Revenue Killer #3: Poor Performance 
+#### Real-time data 
 
-#### 49% of human users will abandon a website within 10 seconds of encountering any type of performance issue, and a 1-second delay can result in a 7% reduction in conversions. <sup>[2](#two)</sup>
+Rather than waiting until checkout to determine a risk score, our scoring engine continuously updates its analysis as each user interacts with your site. Evaluate all users, not just customers who make a purchase.
 
-NS8 Protect includes 5 critical monitors that every ThirtyBees store should have. If and when an issue arises, escalating text messages are sent to you and your staff warning of potential or actual problems. 
+#### Behavioral analytics
 
-* Monitor your store’s technical performance. If your store becomes slow or unresponsive due to plugin conflicts or other changes, you will be immediately notified. 
-* Monitor your store’s global performance relative to other eCommerce stores. 
-* Monitor your store’s encryption certificates. If your store’s certificate expires, users will be warned against using your service. NS8 will alert you first, before the all-important certificate expires. 
-* Monitor spam and malware blacklists for your store’s domain. If your store finds itself listed, maliciously or accidentally, NS8 Protect will alert you and direct you towards a solution. 
+Go beyond static data points to analyze behavior and pre-session data, which includes how users arrive at your site and their behavior once they get there. Our algorithm continuously adapts to new behavior patterns so you can better assess fraud risk.
 
-NS8 Protect for ThirtyBees can protect you and other online merchants from the three biggest revenue killers. Get started risk-free today with your free 30-day trial. The installation requires no coding, and you can be collecting data and stopping fraud within minutes.  
+#### Identity verification
 
-### Pricing 
+Utilize SMS, email, and other verification steps as well as third-party integrations to verify suspicious orders. The level of impact on the user can be customized and is adjustable based on the score each user is given.
 
-NS8 Protect is a pay-as-you-go service, with tiered pricing based on your store’s traffic.* After the 30-day free trial period, pricing starts at $29.95 per month with the first price break starting for websites generating 500K hits or more in a month.
+#### Automation
 
-_*Traffic is measured in hits: the total number of orders and page views that are analyzed on your website in a single month._
+With over 70 criteria to choose from, you can automate order processing workflows using customizable rulesets. The combinations are nearly endless and allow you to create personalized defenses that are as dynamic as they are unique.
 
-<a name="one">1</a> Khalid Saleh. “Online Ad Fraud – Statistics and Trends.” Invesp, 6 May 2016 
+#### Ad campaign optimization
 
-<a name="two">2</a> Neil Patel. “How Loading Time Affects Your Bottom Line.” Neilpatel.com, 2018 
+Use advanced analytics to identify bad traffic generated by fraud and detect its source. Determine which advertising campaigns are bringing in high-quality traffic and adjust any campaigns that are not attracting real prospects.
 
+#### Live performance monitoring
+
+Know when and where customers are experiencing site issues by monitoring responses from servers around the globe. Set custom alerts to keep your team informed of problems and prevent the loss of customers due to unexpected downtime.
+
+### Pricing:
+
+NS8 is a pay-as-you-go service with flexible pricing based on the number of scores received per month. This number is calculated as the total amount of page views you receive on your website, plus the quantity of orders analyzed by NS8. After the 30-day free trial period, pricing begins at $29.95 per month.
+
+*Scores are defined as the total number of page views plus the total number of orders analyzed. 
